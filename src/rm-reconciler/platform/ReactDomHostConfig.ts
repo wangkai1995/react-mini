@@ -1,0 +1,1 @@
+export * from "../../rm-dom/client/ReactDomHostConfig"
